@@ -22,7 +22,9 @@
             android:layout_marginTop="8sp"
             android:layout_marginBottom="48sp"
             android:text="@string/slogan"
-            android:textStyle="bold" />
+            android:textStyle="bold" 
+            android:textColor="@color/black"
+            android:textSize="16sp"/>
     </LinearLayout>
 
 </LinearLayout>
