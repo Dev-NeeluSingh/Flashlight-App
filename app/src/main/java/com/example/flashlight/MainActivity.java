@@ -110,6 +110,7 @@ public class MainActivity extends AppCompatActivity {
             linear1.setBackgroundColor(getResources().getColor(R.color.red));
             flashStatus = false;
             cameraManager.setTorchMode(cameraId, false);
+            removeNotification(this,NOTIFICATION_ID);   
         } catch (Exception e) {
             Toast.makeText(MainActivity.this, "Error", Toast.LENGTH_SHORT).show();
         }
