@@ -8,3 +8,15 @@ Supports Latest Android
  <a href="https://github.com/Dev-NeeluSingh/Flashlight-App/blob/Flashlight-App/Screen%20Shot%20-%201.jpg">
       <img alt="Qries" src="https://github.com/Dev-NeeluSingh/Flashlight-App/blob/Flashlight-App/Screen%20Shot%20-%201.jpg" width=240" height="480">
 </a>
+
+ <a href="https://github.com/Dev-NeeluSingh/Flashlight-App/blob/Flashlight-App/Screen%20Shot%20-%202.jpg">
+      <img alt="Qries" src="https://github.com/Dev-NeeluSingh/Flashlight-App/blob/Flashlight-App/Screen%20Shot%20-%202.jpg" width=240" height="480">
+</a>
+
+ <a href="https://github.com/Dev-NeeluSingh/Flashlight-App/blob/Flashlight-App/Screen%20Shot%20-%203.jpg">
+      <img alt="Qries" src="https://github.com/Dev-NeeluSingh/Flashlight-App/blob/Flashlight-App/Screen%20Shot%20-%203.jpg" width=240" height="480">
+</a>
+
+ <a href="https://github.com/Dev-NeeluSingh/Flashlight-App/blob/Flashlight-App/Screen%20Shot%20-%204.jpg">
+      <img alt="Qries" src="https://github.com/Dev-NeeluSingh/Flashlight-App/blob/Flashlight-App/Screen%20Shot%20-%204.jpg" width=240" height="480">
+</a>
