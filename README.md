@@ -12,7 +12,7 @@ Supports Latest Android
  <a href="https://github.com/Dev-NeeluSingh/Flashlight-App/blob/Flashlight-App/Screen%20Shot%20-%202.jpg">
       <img alt="Qries" src="https://github.com/Dev-NeeluSingh/Flashlight-App/blob/Flashlight-App/Screen%20Shot%20-%202.jpg" width=240" height="480">
 </a>
-
+</br>
  <a href="https://github.com/Dev-NeeluSingh/Flashlight-App/blob/Flashlight-App/Screen%20Shot%20-%203.jpg">
       <img alt="Qries" src="https://github.com/Dev-NeeluSingh/Flashlight-App/blob/Flashlight-App/Screen%20Shot%20-%203.jpg" width=240" height="480">
 </a>
