@@ -5,3 +5,4 @@ Supports Notification in Android Api-34
 Requires runtime permission in Android Api 34 (LAtest introduced in android)
 Supports Latest Android
 # Screenshots
+https://github.com/Dev-NeeluSingh/Flashlight-App/blob/Flashlight-App/Screen%20Shot%20-%201.jpg
